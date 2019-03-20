@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "todo-persistant-app",
+			"path": "todo-persistant-app"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gcPractices-"
+	}
+}

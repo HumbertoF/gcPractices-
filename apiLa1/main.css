@@ -1,0 +1,40 @@
+
+body{
+    background-color: #E0DFD5;
+}
+
+#main {
+    display: flex;
+    
+    align-items: center;
+    flex-wrap: wrap-reverse;
+    background-color: #E8E9EB;
+    justify-content:  center;
+}
+
+#main-container {
+ 
+    flex-direction: row-reverse;
+    border: solid 1px #EF6461 ;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    height: 170px; 
+      display:flex;
+    width: 600px;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+    
+
+#thumbnail > img {
+    height: 150px;
+    width: 150px;
+}
+
+h1{
+    display: flex;
+    font-size: 400%;
+    justify-content: center;
+    color: rgba(5, 102, 141, 1);
+}
